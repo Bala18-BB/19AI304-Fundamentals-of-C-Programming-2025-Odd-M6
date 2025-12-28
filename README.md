@@ -221,10 +221,10 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
-<img width="788" height="173" alt="image" src="https://github.com/user-attachments/assets/aece4c14-f256-4142-a224-4293bf1c338b" />
+<img width="759" height="482" alt="image" src="https://github.com/user-attachments/assets/f4176656-60f3-4c62-80f8-66835772b594" />
 
 # Output:
-<img width="788" height="173" alt="image" src="https://github.com/user-attachments/assets/b5111f4a-cb4c-47b2-8d42-4a14588057ab" />
+<img width="765" height="188" alt="image" src="https://github.com/user-attachments/assets/61f5044a-0af2-4c94-90d4-8e234793bf4a" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
